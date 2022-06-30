@@ -1,0 +1,48 @@
+Datatype : int
+Id : main
+Leftparenthesis : ( 
+Datatype : int
+Id : argc
+Comma : ,
+Datatype : char
+Id : argv
+Rightparenthesis : ) 
+Leftbracket : { 
+Datatype : int
+Id : i
+Assignment : =
+ Num : 2
+Ao(addition) : +
+ Num : 3
+SemiCol : ;  
+Datatype : char*
+Id : s
+SemiCol : ;  
+Id : func
+Leftparenthesis : ( 
+Id : i
+Ao(addition) : +
+ Num : 2
+Comma : ,
+Id : i
+relational operator : ==
+ Num : 2
+Ao(addition) : +
+ Num : 2
+Comma : ,
+Id : s
+Lsquare : [
+Id : i
+Ao(addition) : +
+ Num : 2
+Rsquare : ]
+Rightparenthesis : ) 
+SemiCol : ;  
+RETURN: return
+Id : i
+And : &
+ Num : 34
+Ao(addition) : +
+ Num : 2
+SemiCol : ;  
+Rigthbracket : } 

@@ -1,0 +1,11 @@
+Id-main
+function argument: argv
+function arg: argc
+Function body
+ Const: 2   Const: 3  := 
+local var: i
+local var s
+ var- i   Const: 2   var- i   Const: 2   Const: 2   var- i   Const: 2  FUN-ARG
+Var- func FUN-CALL
+ var- i   Const: 34   Const: 2   RET
+Id-main
